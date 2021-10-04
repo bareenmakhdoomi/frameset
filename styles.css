@@ -1,0 +1,90 @@
+.topnav {
+  background-color:#f07fe3;
+  overflow: hidden;
+}
+.shop{
+  background-color: #b3f5f3;
+  color: 	#f07fe3;
+}
+.topnav a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+.topnav a:hover {
+background-color: #ddd;
+color: black;
+}
+
+    .search{
+        float:right;
+        margin:7px;
+    }
+
+    .search button{
+        background-color: #f07fe3;
+        color: #f2f2f2;
+        float: right;
+        padding: 5px 10px;
+        margin-right: 16px;
+        font-size: 12px;
+        border: none;
+        cursor: pointer;
+   }
+   .download-button {
+  margin: 5% 3% 5% 0;
+}
+.heading
+{
+  font-family: "Times New Roman", Times, serif;
+  text-color :#FFFFFF;
+  font-style:italic;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: 50%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+
+}
+.see{
+  margin-top: 23px;
+}
+
+.myButton {
+
+	background-color:#f07fe3;
+	border-radius:10px;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:Georgia;
+	font-size:10px;
+	padding:10px 10px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:black;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+ margin:20px,0,0,0;
+ padding: 3%;
+ background-color:#f07fe3;
+ color:#FFFFFF;
+  font-size: 0.7rem;
+  text-align: center;
+  }
+  .footer-link{
+     padding:1%;
+  }
